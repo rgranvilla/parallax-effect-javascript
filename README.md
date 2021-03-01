@@ -1,6 +1,6 @@
 # Parallax Effect with Javascript
 
-A simple study of the use of the parallax effect with javascript code.
+A simple study of the use parallax effect with javascript code.
 
 ----
 
